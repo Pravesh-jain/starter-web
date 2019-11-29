@@ -1,7 +1,7 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+Changing to see if merge conflict occurs
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Changing to see if merge conflict occurs
